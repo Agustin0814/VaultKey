@@ -1,0 +1,6 @@
+{
+  "identifier": "main",
+  "description": "Local main window: event subscription only. No filesystem, network, shell or clipboard access from JavaScript.",
+  "windows": ["main"],
+  "permissions": ["core:event:allow-listen", "core:event:allow-unlisten"]
+}

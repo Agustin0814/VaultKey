@@ -1,0 +1,17 @@
+node_modules/
+dist/
+target/
+*.db
+*.db-*
+*.sqlite*
+*.vault
+*.log
+*.tmp
+*.bak
+backups/
+.env
+.env.*
+test-results/
+verification/
+*.tsbuildinfo
+src-tauri/gen/
